@@ -1,35 +1,124 @@
-[20:57:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:57:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:57:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:57:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:57:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:57:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:57:59] [main/INFO]: Reloading ResourceManager: Default, Mob+Health+Bar+[1.5]+[1.16.2+].zip, days-counter-updated.zip, treecapitator-v2-6-2.zip, william-wythers-overhauled-overworld-for-1-16-5.zip
-[20:58:00] [Worker-Main-10/INFO]: Loaded 7 recipes
-[20:58:00] [Worker-Main-10/INFO]: Loaded 927 advancements
-[20:58:03] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:58:03] [Server thread/INFO]: Loading properties
-[20:58:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:58:03] [Server thread/INFO]: Generating keypair
-[20:58:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:58:04] [Server thread/INFO]: Using epoll channel type
-[20:58:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:58:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:58:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:58:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:58:04] [Server thread/INFO]: Preparing level "world"
-[20:58:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:58:06] [Server thread/INFO]: Preparing spawn area: 0%
-[20:58:06] [Server thread/INFO]: Preparing spawn area: 0%
-[20:58:06] [Server thread/INFO]: Preparing spawn area: 0%
-[20:58:06] [Server thread/INFO]: Preparing spawn area: 0%
-[20:58:07] [Server thread/INFO]: Preparing spawn area: 0%
-[20:58:07] [Server thread/INFO]: Time elapsed: 2840 ms
-[20:58:07] [Server thread/INFO]: Done (3.094s)! For help, type "help"
-[20:58:08] [Server thread/INFO]: teste[/127.0.0.1:40436] logged in with entity id 227 at (4.071573705250708, 64.0, 216.34305767361656)
-[20:58:08] [Server thread/INFO]: teste joined the game
-[20:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:58:40] [Server thread/INFO]: Made teste a server operator
-[20:58:46] [Server thread/INFO]: [teste: Set own game mode to Survival Mode]
-[20:58:57] [Server thread/INFO]: teste fell out of the world
-[20:58:57] [Server thread/INFO]: [teste: Killed teste]
+[00:03:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/232801, l='ServerLevel[world]', x=-750.53, y=66.00, z=787.71]
+[00:03:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/232801, l='ServerLevel[world]', x=-750.53, y=66.00, z=787.71]
+[00:04:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-715, y=70, z=658} fx{x=-714, y=69, z=657}
+[00:04:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-715, y=70, z=658} fx{x=-714, y=69, z=657}
+[00:04:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-715, y=70, z=658} fx{x=-714, y=69, z=657}
+[00:04:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-712, y=72, z=660} fx{x=-711, y=70, z=659}
+[00:04:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-712, y=72, z=658} fx{x=-711, y=70, z=658}
+[00:08:13] [Server thread/INFO]: Gozeimis has made the advancement [We Need to Go Deeper]
+[00:10:38] [Server thread/INFO]: <teste> eai luizao
+[00:10:51] [Server thread/INFO]: <luvyxl> opa
+[00:10:56] [Server thread/INFO]: <teste> tamo na sua casa
+[00:11:06] [Server thread/INFO]: <luvyxl> medo
+[00:12:43] [Server thread/INFO]: teste lost connection: Disconnected
+[00:12:43] [Server thread/INFO]: teste left the game
+[00:14:08] [Server thread/INFO]: Guaxinohbis[/201.68.93.135:50738] logged in with entity id 237141 at (-766.0715012811842, 63.0, 827.969816346303)
+[00:14:08] [Server thread/INFO]: Guaxinohbis joined the game
+[00:19:26] [Server thread/INFO]: teste[/179.93.197.166:33934] logged in with entity id 238959 at (593.5124999880791, 64.0, -6.512499988079068)
+[00:19:26] [Server thread/INFO]: teste joined the game
+[00:19:36] [Server thread/INFO]: <luvyxl> boa noite
+[00:19:46] [Server thread/INFO]: <Guaxinohbis> fala guri
+[00:19:48] [Server thread/INFO]: <teste> o natha ta aki
+[00:19:50] [Server thread/INFO]: <teste> eai
+[00:19:55] [Server thread/INFO]: <Guaxinohbis> bão de mais so?
+[00:20:03] [Server thread/INFO]: <teste> q isso
+[00:20:17] [Server thread/INFO]: <luvyxl> vo fazer uma farm de ovo
+[00:20:22] [Server thread/INFO]: <luvyxl> so falta galinha
+[00:20:35] [Server thread/INFO]: <teste> vou fzr uma farm de bibliotecario
+[00:20:39] [Server thread/INFO]: <teste> se bota fé
+[00:20:49] [Server thread/INFO]: <luvyxl> é robado
+[00:20:49] [Server thread/INFO]: <teste> e uma de ouro
+[00:20:55] [Server thread/INFO]: <luvyxl> so livro pika
+[00:22:54] [Server thread/INFO]: <teste> obg
+[00:22:57] [Server thread/INFO]: <teste> amo vc
+[00:23:03] [Server thread/INFO]: <luvyxl> <3
+[00:24:11] [Server thread/INFO]: <teste> se tem mesa de encantamento?
+[00:24:15] [Server thread/INFO]: <luvyxl> s
+[00:24:23] [Server thread/INFO]: <luvyxl> primeira esquerda n escada da mina
+[00:24:31] [Server thread/INFO]: <luvyxl> direita*
+[00:26:41] [Server thread/INFO]: <luvyxl> quem é o gozeimis?
+[00:28:35] [Server thread/INFO]: <teste> o gomes
+[00:28:44] [Server thread/INFO]: <luvyxl> tendi
+[00:28:47] [Server thread/INFO]: <teste> vem ver o pear
+[00:28:50] [Server thread/INFO]: <teste> cole
+[00:29:29] [Server thread/INFO]: <teste> se tem alkgo de ourto
+[00:29:37] [Server thread/INFO]: <luvyxl> calama
+[00:29:39] [Server thread/INFO]: <teste> se nn os bixo vai te macetare
+[00:30:21] [Server thread/INFO]: <teste> to gomes entrou no eerradi][
+[00:30:54] [Server thread/INFO]: <teste> essa puta nn volta
+[00:32:43] [Server thread/INFO]: <teste> tnathan]
+[00:32:53] [Server thread/INFO]: <Guaxinohbis> madna
+[00:33:07] [Server thread/INFO]: <teste> kd o ce
+[00:33:13] [Server thread/INFO]: <Guaxinohbis> no porto
+[00:33:28] [Server thread/INFO]: teste was shot by Skeleton
+[00:33:57] [Server thread/INFO]: <luvyxl> krl tem um joker ali
+[00:38:13] [Server thread/INFO]: <teste> essa parte aki embaixo vai sumir
+[00:38:24] [Server thread/INFO]: <teste> pq é um porto adaptado
+[00:39:00] [Server thread/INFO]: <luvyxl> eu botei o golfinho na coleira
+[00:40:27] [Server thread/INFO]: <teste> onde eu faço uma cas
+[00:44:01] [Server thread/INFO]: <teste> luizao
+[00:44:04] [Server thread/INFO]: <teste> https://www.youtube.com/watch?v=x6f-XX5hU7k&list=PLkPcs-K4ygzutsX4l9A11jU8cQFBh_2Ej&index=14
+[00:44:08] [Server thread/INFO]: <teste> vou fzr essa
+[00:44:15] [Server thread/INFO]: <teste> aé
+[00:44:19] [Server thread/INFO]: <luvyxl> n consigo abrir
+[00:44:24] [Server thread/INFO]: <teste> tem dc
+[00:44:28] [Server thread/INFO]: <luvyxl> s
+[00:44:38] [Server thread/INFO]: <luvyxl> Luvyss_#2046
+[00:44:38] [Server thread/INFO]: <teste> jogue na minha
+[00:46:20] [Server thread/INFO]: <teste> se tem fire aspect
+[00:46:26] [Server thread/INFO]: <luvyxl> s
+[00:46:33] [Server thread/INFO]: <teste> mata as calinha pra nois
+[00:46:39] [Server thread/INFO]: <luvyxl> quantas?
+[00:46:42] [Server thread/INFO]: <teste> all
+[00:47:16] [Server thread/INFO]: <luvyxl> minha espada vai quebrar
+[00:47:20] [Server thread/INFO]: <teste> dxa
+[00:47:36] [Server thread/INFO]: <teste> da pra concertar cm a bigorna?
+[00:47:40] [Server thread/INFO]: <luvyxl> s
+[00:48:52] [Server thread/INFO]: <luvyxl> vo la em casa consertar
+[00:49:00] [Server thread/INFO]: <teste> pdp man
+[00:52:06] [Server thread/INFO]: <teste> zzzzzzzzzzzzzzz
+[00:53:45] [Server thread/INFO]: <teste> zzzz
+[00:53:46] [Server thread/INFO]: <teste> z
+[00:53:46] [Server thread/INFO]: <teste> z
+[00:53:47] [Server thread/INFO]: <teste> z
+[00:54:09] [Server thread/INFO]: Guaxinohbis was impaled by Drowned
+[00:54:10] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/250450, l='ServerLevel[world]', x=-732.58, y=61.40, z=809.36]
+[01:04:53] [Server thread/INFO]: teste has made the advancement [Suit Up]
+[01:06:40] [Server thread/INFO]: Villager bfj['Fletcher'/254054, l='ServerLevel[world]', x=-184.50, y=68.00, z=332.70] died, message: 'Fletcher was slain by Zombie'
+[01:08:02] [Server thread/INFO]: Villager bfj['Villager'/254124, l='ServerLevel[world]', x=-202.13, y=62.90, z=315.69] died, message: 'Villager was shot by Skeleton'
+[01:12:46] [Server thread/INFO]: Gozeimis lost connection: Disconnected
+[01:12:46] [Server thread/INFO]: Gozeimis left the game
+[01:20:03] [Server thread/INFO]: luvyxl has made the advancement [The Parrots and the Bats]
+[01:20:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=660, y=64, z=11} fx{x=661, y=62, z=11}
+[01:33:02] [Server thread/INFO]: luvyxl lost connection: Disconnected
+[01:33:02] [Server thread/INFO]: luvyxl left the game
+[01:37:07] [Server thread/WARN]: Trying to add entity with duplicated UUID 20fb422d-e821-4d7e-8c77-45fc81a08306. Existing minecraft:armor_stand#268653, new: minecraft:armor_stand#268653
+[01:45:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-746, y=71, z=749} fx{x=-746, y=69, z=750}
+[02:07:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1530, y=70, z=749} fx{x=-1530, y=69, z=750}
+[02:07:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1530, y=70, z=749} fx{x=-1530, y=69, z=750}
+[02:14:45] [Server thread/INFO]: <teste> ZZZZZZZ
+[02:37:02] [Server thread/INFO]: teste was slain by Zombie
+[02:47:53] [Server thread/INFO]: SrRick_123[/179.93.163.196:59517] logged in with entity id 295034 at (-749.0407085903439, 64.0, 811.6217510555015)
+[02:47:53] [Server thread/INFO]: SrRick_123 joined the game
+[02:51:18] [Server thread/INFO]: SrRick_123 was slain by Zombie
+[02:52:06] [Server thread/INFO]: SrRick_123 was slain by Zombie
+[02:52:46] [Server thread/INFO]: SrRick_123 was slain by teste
+[02:52:51] [Server thread/INFO]: teste was slain by Guaxinohbis
+[02:52:57] [Server thread/INFO]: SrRick_123 has made the advancement [Suit Up]
+[02:54:10] [Server thread/INFO]: SrRick_123 has made the advancement [We Need to Go Deeper]
+[03:01:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=498, y=63, z=80} fx{x=499, y=62, z=80}
+[03:08:38] [Server thread/INFO]: teste tried to swim in lava
+[03:09:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-721, y=70, z=698} fx{x=-720, y=68, z=698}
+[03:09:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-721, y=70, z=698} fx{x=-720, y=68, z=698}
+[03:09:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-722, y=70, z=698} fx{x=-720, y=68, z=698}
+[03:09:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-722, y=70, z=698} fx{x=-720, y=68, z=698}
+[03:13:36] [Server thread/INFO]: teste tried to swim in lava
+[03:14:14] [Server thread/INFO]: [teste] akbidkh
+[03:17:39] [Server thread/WARN]: Horse (vehicle of teste) moved wrongly! 0.33817821982887386
+[03:18:07] [Server thread/INFO]: teste suffocated in a wall
+[03:18:53] [Server thread/INFO]: SrRick_123 was shot by Skeleton
+[03:20:15] [Server thread/INFO]: SrRick_123 burned to death
+[03:26:04] [Server thread/INFO]: SrRick_123 was shot by Skeleton
+[03:26:50] [Server thread/INFO]: teste was shot by Skeleton
+[03:27:21] [Server thread/INFO]: SrRick_123 lost connection: Disconnected
+[03:27:21] [Server thread/INFO]: SrRick_123 left the game
